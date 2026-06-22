@@ -2,8 +2,8 @@
 ## Análisis de Datos con Python + Identificación de Tipos de Datos
 ### Big Data (DD283) | Universidad Autónoma del Perú
 
-**Nombre(s)**: __Miguel Angel Chavrz Alejo_____________________________  
-**Grupo**: ____________25_________________________________  
+**Nombre(s)**:Javier Flores Condeña  
+**Grupo**: Grupo 1
 **Duración estimada**: 90 minutos  
 **Modalidad**: Individual (en casa, en tu laptop)  
 **Entrega**: Subir notebook .ipynb a GitHub Classroom antes de Semana 2
@@ -60,6 +60,8 @@ print("¡Entorno listo!")
 
 **Captura de pantalla requerida**: Toma screenshot del output con las versiones instaladas.
 
+
+![Evidencia 1](https://raw.githubusercontent.com/J4v13rFl0r3s/bigdata-ua-2026-1/main/semana_01/Solucion_S1/img/Captura1.JPG)
 ---
 
 ## PARTE 2: DATOS ESTRUCTURADOS (20 minutos)
@@ -407,21 +409,20 @@ Sube a tu repositorio GitHub los siguientes archivos:
 **Formato del README.md**:
 ```markdown
 # Lab Semana 1 — Big Data DD283
-**Estudiante**: Tu Nombre  
-**Fecha**: 
-**Empresa del proyecto**: 
+**Estudiante**: Javier Flores Condeña
+**Fecha**: 15/06/2026 
+**Empresa del proyecto**: Dollar city
 
 ## ¿Qué aprendí?
-[Tu reflexión — mínimo 3 oraciones]
+Aprendí a diferenciar datos estructurados, semi-estructurados y no estructurados. También aprendí a procesarlos y analizarlos con herramientas de Big Data. Además, comprendí cómo diseñar una arquitectura Big Data para una empresa retail.
 
 ## ¿Qué fue lo más difícil?
-[Tu reflexión]
+Lo más difícil fue seleccionar las tecnologías adecuadas para cada componente de la arquitectura. También fue un reto estimar el volumen de datos y los casos de uso del negocio.
 
 ## ¿Cómo aplica en mi empresa actual?
-[Tu reflexión — mínimo 2 oraciones]
+Estos conocimientos permiten analizar grandes volúmenes de datos de forma eficiente. También ayudan a mejorar la toma de decisiones mediante análisis y modelos predictivos.
 ```
 
----
 
 ## CRITERIOS DE EVALUACIÓN DEL LABORATORIO
 

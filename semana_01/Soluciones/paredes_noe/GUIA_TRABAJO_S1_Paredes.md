@@ -235,31 +235,30 @@ Puede afectar la **privacidad de los clientes** si sus datos personales son util
 
 ---
 
-## PARTE 2: REFLEXIÓN Y CONEXIÓN CON TU PROYECTO
+## PARTE 2: REFLEXIÓN Y CONEXIÓN CON TU PROYECTO (2 preguntas adicionales)
 
 ### Pregunta 11 — Tu Proyecto
-**Describe brevemente el proyecto Big Data que tu grupo ha elegido:**
+Describe brevemente el proyecto Big Data que tu grupo ha elegido:
+- Nombre del proyecto
+- Empresa o sector al que aplica
+- Problema que resuelve
+- ¿Cuáles de las 5 V's están presentes en los datos del proyecto?
 
-* **Nombre del proyecto:** Sistema Inteligente de Predicción de Demanda para Cadena de Pollerías.
-* **Empresa o sector al que aplica:** Sector Gastronómico / Restaurantes de comida rápida.
-* **Problema que resuelve:** Evita pérdidas financieras por sobreproducción de insumos en días de baja demanda, y previene la pérdida de clientes por quiebres de stock en días festivos o fines de semana mediante un modelo predictivo diario.
-
-**¿Cuáles de las 5 V's están presentes en los datos del proyecto?**
-
-1. **Volumen:** Procesamiento de miles de registros de transacciones (boletas electrónicas), pedidos históricos y métricas de inventario acumulados mensualmente por sucursal.
-2. **Velocidad:** Los datos de ventas en cajas (POS) y las órdenes de apps de delivery ingresan en tiempo real de forma continua durante las horas pico de atención.
-3. **Variedad:** Consumo de datos archivados (tablas SQL de ventas, precios, stock) combinados con datos no estructurados (reseñas, reclamos y feedback en plataformas como Rappi, PedidosYa y redes sociales).
+_Respuesta_:  
+```
+[Escribe tu respuesta aquí]
+```
 
 ---
 
 ### Pregunta 12 — Arquitectura inicial
-**Dibuja (a mano o usando draw.io) una arquitectura inicial muy básica de cómo crees que debería funcionar tu proyecto. Incluye: fuentes de datos, almacenamiento, procesamiento y visualización.**
+Dibuja (a mano o usando draw.io) una arquitectura inicial **muy básica** de cómo crees que debería funcionar tu proyecto. Incluye: fuentes de datos, almacenamiento, procesamiento y visualización.
 
-A continuación se detalla el flujo de la arquitectura inicial diseñada en draw.io para el proyecto:
+*(Adjunta la imagen o el link de draw.io)*
 
-
+_Link o descripción de tu diagrama_:  
 ```
-![Arquitectura Inicial](arquitectura_inicial.png)
+[Escribe aquí o adjunta imagen]
 ```
 
 ---
